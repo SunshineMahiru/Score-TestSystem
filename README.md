@@ -1,5 +1,4 @@
-# Score-Test
-# Grade Management System
+# Score-Test Grade Management System
 
 A lightweight student grade management system built with JavaFX.
 
